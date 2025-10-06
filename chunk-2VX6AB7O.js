@@ -1,0 +1,1 @@
+var i={production:!1,siteTitle:"Maurilio Morais - Portfolio",siteUrl:"https://maurilio.dev.br",socialLinks:{linkedin:"https://linkedin.com/in/mauriliomorais",github:"https://github.com/mauriliomorais",email:"maurilio976@gmail.com"},analytics:{gtag:""}};export{i as a};
